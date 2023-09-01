@@ -1,0 +1,29 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Roboto:ital,wght@0,100;0,700;1,100&display=swap');
+</style>
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    font-family: "Roboto", sans-serif;
+}
+
+.título{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, Monospace;
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#id-titulo{
+    color: brown;
+}
+span{
+    text-align: center;
+}
+
+.imagem-fundo{
+    background-image:url("..");
+}
